@@ -1,7 +1,17 @@
+import Card from '../partials/Card'
+
 export default function About() {
     return (
-        <>
-        <p>I'm about</p>
-        </>
+        <div className='card-container'>
+            <div className='card'>
+                <Card />
+            </div>
+            <div>
+                <Card />
+            </div>
+            <div>
+                <Card />
+            </div>
+        </div>
     )
 }
