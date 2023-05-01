@@ -1,10 +1,13 @@
-
+ul {
+    display: flex;
+    justify-content: space-around;
+    max-width: 40%;
+    margin: 0 auto 20px auto;
+}
 
 ul li {
     background: #cce5ff;
     color:darkblue;
     border-radius: 25px;
     width: 200px;
-
 }
-
