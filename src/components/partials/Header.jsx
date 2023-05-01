@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function Header() {
     return (
         <nav>
-            <ul list-style-type="none">
+            <ul style={({listStyleType: "none"})}>
                 <li>
                     <Link to="/" >Home</Link>
                 </li>
