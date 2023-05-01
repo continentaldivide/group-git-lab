@@ -15,7 +15,7 @@ export default function About() {
         },
         {
             name: "Andrew",
-            bio: "c",
+            bio: "Bio placeholder",
             image: ""
         }
     ]
