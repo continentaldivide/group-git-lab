@@ -1,4 +1,10 @@
 .Card {
     background-color: skyblue;
     max-width: 200px;
+    border-radius: 10px;
+}
+
+.Card img {
+    max-width: 200px;
+    border-radius: 10px 10px 0 0;
 }
