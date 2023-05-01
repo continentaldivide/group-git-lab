@@ -2,5 +2,9 @@
 
 ul li {
     background: #cce5ff;
-    color:darkblue
+    color:darkblue;
+    border-radius: 25px;
+    width: 200px;
+
 }
+
