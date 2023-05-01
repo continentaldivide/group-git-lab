@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+html {
+  background-color: black;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+a:visited {
+  color: grey;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
